@@ -26,3 +26,8 @@
     f.	(K)eluar Untuk Keluar dari Program
          Berikut contoh programnya:
          ![Screenshot (39)](https://user-images.githubusercontent.com/56987138/70382347-ea957280-198c-11ea-82fc-a17271279307.png)
+         
+     Berikut contoh flowchartnya:
+     
+     ![Screenshot (41)](https://user-images.githubusercontent.com/56987138/70842420-0cdc3400-1e56-11ea-960a-de1f020cb6f7.png)
+
